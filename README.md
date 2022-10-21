@@ -1,5 +1,5 @@
 - 👋 oi eu sou o kaua
-- 👀 eu sou interresado em football
+- 👀 eu sou interessado em futebol
 - 🌱 eu estou aprendendo programaçao
 - estou aprendendo a linguagem Javascript e Scratch
 
